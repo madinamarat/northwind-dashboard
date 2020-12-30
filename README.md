@@ -1,6 +1,6 @@
 # Northwind Metabase Dashboard
 
-The project was completed at the week 6 of the Spiced Academy Bootcamp:
+The project was completed at the week 6 of the Spiced Academy Data Science Bootcamp:
 
 - Postgres database was created
 - Northwind tables loaded in the Postgres database
